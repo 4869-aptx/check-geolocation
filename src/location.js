@@ -6,7 +6,7 @@ class Location extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            message: 'Please wait, checking your geolocation...'
+            message: 'Please wait while we check your geolocation...'
         };
     }
 
@@ -22,17 +22,17 @@ class Location extends Component {
                 // console.log('error in getting, falling back on default location', error);
                 if (error.code === error.PERMISSION_DENIED) {
                     this.setState({
-                        message: "Geolocation denied!"
+                        message: "Geolocation Denied!"
                     })
                 } else {
                     this.setState({
-                        message: "Geolocation failed!"
+                        message: "Geolocation Failed!"
                     })
                 }
             });
         } else {
             this.setState({
-                message: "Geolocation failed!"
+                message: "Geolocation Failed!"
             })
         }
     }
