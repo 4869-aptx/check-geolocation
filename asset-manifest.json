@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/check-location/static/css/main.5f361e03.chunk.css",
-    "main.js": "/check-location/static/js/main.a41ac079.chunk.js",
-    "main.js.map": "/check-location/static/js/main.a41ac079.chunk.js.map",
-    "runtime-main.js": "/check-location/static/js/runtime-main.8f2cd18c.js",
-    "runtime-main.js.map": "/check-location/static/js/runtime-main.8f2cd18c.js.map",
-    "static/js/2.0b904498.chunk.js": "/check-location/static/js/2.0b904498.chunk.js",
-    "static/js/2.0b904498.chunk.js.map": "/check-location/static/js/2.0b904498.chunk.js.map",
-    "index.html": "/check-location/index.html",
-    "precache-manifest.6f2947378000f8b15fe49e377d62075b.js": "/check-location/precache-manifest.6f2947378000f8b15fe49e377d62075b.js",
-    "service-worker.js": "/check-location/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/check-location/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.0b904498.chunk.js.LICENSE.txt": "/check-location/static/js/2.0b904498.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/check-location/static/media/logo.5d5d9eef.svg"
+    "main.css": "/check-geolocation/static/css/main.5f361e03.chunk.css",
+    "main.js": "/check-geolocation/static/js/main.46a387be.chunk.js",
+    "main.js.map": "/check-geolocation/static/js/main.46a387be.chunk.js.map",
+    "runtime-main.js": "/check-geolocation/static/js/runtime-main.aa21baaa.js",
+    "runtime-main.js.map": "/check-geolocation/static/js/runtime-main.aa21baaa.js.map",
+    "static/js/2.0b904498.chunk.js": "/check-geolocation/static/js/2.0b904498.chunk.js",
+    "static/js/2.0b904498.chunk.js.map": "/check-geolocation/static/js/2.0b904498.chunk.js.map",
+    "index.html": "/check-geolocation/index.html",
+    "precache-manifest.c6b810a69679b8f4dce6c5b418145a4b.js": "/check-geolocation/precache-manifest.c6b810a69679b8f4dce6c5b418145a4b.js",
+    "service-worker.js": "/check-geolocation/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/check-geolocation/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0b904498.chunk.js.LICENSE.txt": "/check-geolocation/static/js/2.0b904498.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/check-geolocation/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f2cd18c.js",
+    "static/js/runtime-main.aa21baaa.js",
     "static/js/2.0b904498.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a41ac079.chunk.js"
+    "static/js/main.46a387be.chunk.js"
   ]
 }
